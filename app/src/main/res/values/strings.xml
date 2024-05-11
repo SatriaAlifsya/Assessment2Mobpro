@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Aplikasi Pencucian</string>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="x_diklik">%1$s diklik!</string>
+    <string name="tambah_data">Cuci</string>
+    <string name="nama">Nama</string>
+    <string name="harga">Harga</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_cuci">Ubah data mencuci</string>
+    <string name="invalid">Nama, harga, dan model tidak boleh kosong.</string>
+    <string name="lainnya">Opsi lainnya</string>
+    <string name="hapus">Hapus catatan</string>
+    <string name="pesan_hapus">Hapus catatan ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Nama: %1$s\nHarga: %2$s\nJenis: %3$s</string>
+</resources>
